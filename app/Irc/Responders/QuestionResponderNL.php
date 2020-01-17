@@ -24,6 +24,7 @@ class QuestionResponderNL extends QuestionResponder
             '!is',
             '!kan',
             '!zal',
+            '!zou',
         ];
     }
 }
