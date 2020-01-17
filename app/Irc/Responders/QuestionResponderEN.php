@@ -25,6 +25,8 @@ class QuestionResponderEN extends QuestionResponder
             '!is',
             '!should',
             '!will',
+            '!would',
+            '!did',
         ];
     }
 }
